@@ -16,6 +16,7 @@ body{
   min-height: 100vh;
   background-image: url(AI.jpg);
   background-size: cover;
+  background-repeat:no-repeat;
   background-position: center;
   backdrop-filter: blur(7px);
   
