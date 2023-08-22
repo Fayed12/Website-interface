@@ -19,7 +19,7 @@ body{
   background-repeat:no-repeat;
   background-position: center;
   backdrop-filter: blur(7px);
-  
+  width:100%;
 }
 
 header{
